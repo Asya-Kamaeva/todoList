@@ -1,5 +1,7 @@
 # todo-app
 
+https://zaporozhets.me/projects/todo/
+
 > A Vue.js project
 
 ## Build Setup
